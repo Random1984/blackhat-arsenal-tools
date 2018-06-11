@@ -14,13 +14,13 @@ Slides and supporting assets from the Black Hat Arsenal talk can be found [here]
 
 ### Black Hat sessions
 
-[![Arsenal 2017](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal 2017](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
 
 ### Code
 
 https://github.com/sitch-io
 
-### Main developer
+### Lead Developer
 
 Ash Wilson - https://github.com/ashmastaflash
 

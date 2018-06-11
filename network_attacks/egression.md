@@ -12,18 +12,18 @@ Many tools of this type work by testing outbound port connections alone, but Egr
 
 
 ### Black Hat sessions
-[![ToolsWatch 2017 Arsenal](https://rawgithub.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/index.html)
+[![ToolsWatch 2017 Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/index.html)
 
 
 ### Code
 https://github.com/danielmiessler/egression
 
 
-### Main developer
+### Lead Developer
 * Daniel Miessler [@danielmiessler] - https://github.com/danielmiessler
 
 
-### Elsewhere
+### Social Media
 * [Website](https://danielmiessler.com/)
 * [Twitter](https://twitter.com/danielmiessler)
 * [Podcast](https://danielmiessler.com/podcast/)

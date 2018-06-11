@@ -9,12 +9,12 @@ DET aims to provide a framework to assist with exfiltrating data using either on
 * Frameworks
 
 ### Black Hat sessions
-[![ToolsWatch 2016 Arsenal](https://rawgithub.com/toolswatch/badges/master/arsenal/2016.svg)](https://www.blackhat.com/us-16/arsenal.html#det)
+[![ToolsWatch 2016 Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2016.svg)](https://www.blackhat.com/us-16/arsenal.html#det)
 
 ### Code
 https://github.com/PaulSec/DET
 
-### Main developer
+### Lead Developer
 * Paul Amar (@PaulWebSec) - https://github.com/PaulSec
 
 ### Social Media

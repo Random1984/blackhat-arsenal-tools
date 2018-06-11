@@ -9,20 +9,15 @@ Android Tamer project provides various resources for Android mobile application 
 * Penetration Testing
 
 ### Black Hat sessions
-[![Arsenal-2015](https://www.toolswatch.org/badges/arsenal/2015.svg)](https://www.toolswatch.org/2015/10/black-hat-arsenal-europe-2015-line-up/)
-[![Arsenal-2016](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal-2015](https://rawgit.com/toolswatch/badges/master/arsenal/europe/2015.svg)](https://www.toolswatch.org/2015/10/black-hat-arsenal-europe-2015-line-up/)
+[![Arsenal-2016](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2016.svg)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
 
-
-
- 
 ### Code 
 https://github.com/AndroidTamer/AndroidTamer
 
-### Main developer
- Anant Shrivastava - https://github.com/Anantshri
-
-### Active Contributor's
+### Lead Developers
+* Anant Shrivastava - https://github.com/Anantshri
 * Chandrapal - https://github.com/Chan9390
 * Rahul Binjve - https://github.com/c0dist
 
@@ -30,4 +25,3 @@ https://github.com/AndroidTamer/AndroidTamer
 * [Official Website](https://androidtamer.com/) 
 * [Twitter](https://twitter.com/AndroidTamer)
 * [Facebook](https://facebook.com/AndroidTamer)
-----

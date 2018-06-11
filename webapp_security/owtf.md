@@ -27,12 +27,12 @@ OWTF includes:
 
 ### Black Hat sessions
 
-[![Black Hat Arsenal USA](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Black Hat Arsenal USA](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
 
 ### Code
 https://github.com/owtf/owtf
 
-### Project leaders
+### Lead Developers
 
 - Abraham Aranguren (https://twitter.com/7a_)
 - Bharadwaj Machiraju (https://twitter.com/tunnelshade_)

@@ -7,12 +7,12 @@ At its core, Legion is a distributed computing application. It is written in pyt
 * Red Team
 
 ### Black Hat sessions
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
  
 ### Code 
 https://github.com/MooseDojo/Legion
 
-### Main developer
+### Lead Developers
 * Adam Compton - https://github.com/tatanus https://github.com/MooseDojo
 * Bill Harshbarger - https://github.com/bharshbarger https://github.com/MooseDojo
 

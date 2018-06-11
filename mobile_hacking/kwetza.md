@@ -10,15 +10,15 @@ Kwetza is a tool that allows you to infect an existing Android application with 
 
 ### Black Hat sessions
 
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
  
 ### Code 
 https://github.com/sensepost/kwetza
 
-### Main developer
+### Lead Developer
  Chris Le Roy - SensePost https://github.com/sensepost
 
 ### Social Media 
 * [Twitter](https://twitter.com/brompwnie)
 * [Company Website](https://sensepost.com/) 
-----
+

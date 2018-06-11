@@ -9,12 +9,12 @@ DELTA is a first SDN security evaluation framework, which has two primary functi
 * Frameworks
 
 ### Black Hat sessions
-[![ToolsWatch 2017 Arsenal](https://rawgithub.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/#delta-sdn-security-evaluation-framework-7466)
+[![ToolsWatch 2017 Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/#delta-sdn-security-evaluation-framework-7466)
 
 ### Code
 https://github.com/OpenNetworkingFoundation/DELTA
 
-### Main developer
+### Lead Developers
 * Seungsoo Lee [seungsoo-lee] - https://github.com/seungsoo-lee
 * Jinwoo Kim [jinwoookim] - https://github.com/jinwoookim
 
